@@ -1,4 +1,4 @@
-# Hiring-DL-roles
+# Hiring-NVIDIA-DL-roles
 Hiring DL roles of NVIDIA
 
 Adding WeChat:18867144803
