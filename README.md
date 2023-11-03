@@ -2,10 +2,10 @@
 Hiring DL roles of NVIDIA
 
 
-[Adding WeChat]:18867144803
+[Adding WeChat]: 18867144803
 
 
-[Email]:xiaozhao@nvidia.com
+[Email]: xiaozhao@nvidia.com
 
 
 [Maimai Link]:
