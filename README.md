@@ -1,21 +1,24 @@
 # Hiring-NVIDIA-DL-roles
 Hiring DL roles of NVIDIA
 
-Adding WeChat:18867144803
 
-Email:xiaozhao@nvidia.com
+[Adding WeChat]:18867144803
 
-Maimai Link:
+
+[Email]:xiaozhao@nvidia.com
+
+
+[Maimai Link]:
 
 https://maimai.cn/jobs/job_detail?ejid=EnhjVzHX1dfPMi2CsCkpjA&fr=maimai-job-share
 
-Location: Beijing or Shanghai
+[Location]: Beijing or Shanghai
 
 岗位有三个方向：
 
-岗位1
+[岗位1]
 
-What you’ll be doing:
+[What you’ll be doing:]
 
 Develop highly optimized deep learning kernels for inference
 
@@ -26,7 +29,7 @@ Work with cross-collaborative teams across automotive, image understanding, and 
 Occasionally travel to conferences and customers for technical consultation and training
 
 
-What we need to see: 
+[What we need to see:] 
 
 Masters or PhD or equivalent experience in relevant discipline (CE, CS&E, CS, AI)
 
@@ -43,9 +46,9 @@ GPU programming experience (CUDA or OpenCL) desired
 5+ years of relevant work experience
 
 
-岗位2-
+[岗位2-]
 
-What you'll be doing:
+[What you'll be doing:]
 
 1-Developing production-quality software that ships as part of NVIDIA's AI software stack.
 
@@ -56,7 +59,7 @@ What you'll be doing:
 4-Adapting to the constantly evolving AI industry by being agile and excited to contribute across the codebase, including API design, software architecture, testing, and GPU kernel development.
 
 
-What we need to see:
+[What we need to see:]
 
 1-MS or PhD in relevant discipline (CS, EE, Math) or equivalent experience
 
@@ -71,9 +74,9 @@ What we need to see:
 6-Good communication and organizational skills
 
 
-岗位3-
+[岗位3-]
 
-What you’ll be doing:
+[What you’ll be doing:]
 
 1-Prototype state of the art deep learning and data analytics algorithms and applications. Analyze trade-offs in performance, cost and power.
 
@@ -84,7 +87,7 @@ What you’ll be doing:
 4-Collaborate across the company to guide the direction of next-gen deep learning HW/SW by working with architecture, software, and product teams.
 
 
-What we need to see:
+[What we need to see:]
 
 1-Masters, or PhDs of computer science, electronics engineering, and relevant or equivalent majors are welcome
 
